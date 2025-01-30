@@ -36,7 +36,3 @@ async function init() {
 
 init()
 ```
-
-## Contact
-
-For questions or support, please open an issue on GitHub or contact us at joinercantillo0813@gmail.com.
